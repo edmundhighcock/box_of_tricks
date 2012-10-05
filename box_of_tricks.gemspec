@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "box_of_tricks.gemspec",
     "lib/box_of_tricks.rb",
     "test/helper.rb",
     "test/test_box_of_tricks.rb"
