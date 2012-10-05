@@ -33,6 +33,7 @@ Gem::Specification.new do |s|
   s.homepage = %q{http://github.com/edmundhighcock/box_of_tricks}
   s.licenses = ["GPLv3"]
   s.require_paths = ["lib"]
+  s.rubyforge_project = %q{box_of_tricks}
   s.rubygems_version = %q{1.3.7}
   s.summary = %q{A collection of handy little hacks to Ruby objects.}
 
