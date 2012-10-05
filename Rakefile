@@ -17,6 +17,7 @@ Jeweler::Tasks.new do |gem|
   gem.name = "box_of_tricks"
   gem.homepage = "http://github.com/edmundhighcock/box_of_tricks"
   gem.license = "GPLv3"
+	gem.rubyforge_project = gem.name
   gem.summary = %Q{A collection of handy little hacks to Ruby objects.}
   gem.description = %Q{A collection of handy little hacks to Ruby objects. Does not modify default behaviours.}
   gem.email = "edmundhighcock@sourceforge.net"
